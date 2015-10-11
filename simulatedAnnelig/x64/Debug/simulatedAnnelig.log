@@ -1,0 +1,37 @@
+﻿Build started 10/2/2015 10:59:41 PM.
+     1>Project "C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\simulatedAnnelig\simulatedAnnelig.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(91): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(104): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+     1>c:\users\mark\documents\visual studio 2015\projects\simulatedannelig\simulatedannelig\main.cpp(118): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\x64\Debug\simulatedAnnelig.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\x64\Debug\simulatedAnnelig.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\x64\Debug\simulatedAnnelig.lib" /MACHINE:X64 x64\Debug\Main.obj
+         simulatedAnnelig.vcxproj -> C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\x64\Debug\simulatedAnnelig.exe
+     1>Done Building Project "C:\Users\Mark\Documents\Visual Studio 2015\Projects\simulatedAnnelig\simulatedAnnelig\simulatedAnnelig.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
